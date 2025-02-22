@@ -16,3 +16,7 @@ https://raw.githubusercontent.com/yzj160212/Surge/main/BardAI.list
 ```
 https://raw.githubusercontent.com/yzj160212/Surge/main/Groq.list
 ```
+### Nvidia
+```
+https://raw.githubusercontent.com/yzj160212/Surge/main/Nvidia.list
+```
