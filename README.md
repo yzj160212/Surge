@@ -12,6 +12,7 @@ https://raw.githubusercontent.com/yzj160212/Surge/main/OpenAI.list
 ```
 https://raw.githubusercontent.com/yzj160212/Surge/main/BardAI.list
 ```
+### Groq
 ```
 https://raw.githubusercontent.com/yzj160212/Surge/main/Groq.list
 ```
