@@ -24,3 +24,7 @@ https://raw.githubusercontent.com/yzj160212/Surge/main/Nvidia.list
 ```
 https://raw.githubusercontent.com/yzj160212/Surge/main/Proxy_Domain.txt
 ```
+### ChinaMax_Domain
+```
+https://raw.githubusercontent.com/yzj160212/Surge/main/ChinaMax_Domain.txt
+```
