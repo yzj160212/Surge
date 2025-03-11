@@ -20,3 +20,7 @@ https://raw.githubusercontent.com/yzj160212/Surge/main/Groq.list
 ```
 https://raw.githubusercontent.com/yzj160212/Surge/main/Nvidia.list
 ```
+### Proxy_Domain
+```
+https://raw.githubusercontent.com/yzj160212/Surge/main/Proxy_Domain.txt
+```
